@@ -1,0 +1,6 @@
+https://www.google.com                   
+https://secure.eicar.org/eicar.com.txt  
+https://example.com                       
+http://testmyurls.com/malware_sample      
+http://malware.testing.google.com         
+https://www.wikipedia.org               
