@@ -39,7 +39,7 @@ security_toolkit/
 ## Requiments
 
 Install required libraries :
-``bash
+
 pip install requests colorama
 
 ## How to run 
