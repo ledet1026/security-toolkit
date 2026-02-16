@@ -66,23 +66,24 @@ https://account.shodan.io/
 
 Error Handling 
 The tool handles:
-   Invlid Input
+   -Invlid Input
    
-   Network Error
+   -Network Error
    
-   API limits
+   -API limits
    
-   Invalid API keys
+   -Invalid API keys
    
-   Keyboard Interrupt(ctrl+c)
+   -Keyboard Interrupt(ctrl+c)
 
 Educational purpose
 This project created for:
-    cybersecurit learning
     
-   Threat intelligence understanding 
+   -cybersecurit learning
+    
+   -Threat intelligence understanding 
    
-   Ethical hacking practice 
+   -Ethical hacking practice 
 
 Author 
 Ledet Tamiru 
